@@ -1,7 +1,6 @@
 # My-LUNA
-# My-LUNA
 <div align="center">
-  <img src="https://media.giphy.com/media/9bKwIX10C1R18bfida/giphy.gif" alt="Luna Logo" width="200"/>
+  <img src="https://media.giphy.com/media/9bKwIX10C1R18bfida/giphy.gif" alt="Luna Logo" width="400"/>
 </div>
 
 # Luna - AI Desktop Assistant
