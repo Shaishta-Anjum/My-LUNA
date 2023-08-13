@@ -55,6 +55,6 @@ This project draws inspiration from the idea of creating a voice-controlled AI d
 
 This project is licensed under the MIT License. Check out the [LICENSE](LICENSE) file for more details.
 
-## Note
+## 💖 Note
 
  I'm dedicated to continuously improving this project, so stay tuned for updates!
