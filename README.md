@@ -1,4 +1,7 @@
-# My-LUNA
+<div align="center">
+  <h1>My-LUNA</h1>
+</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/9bKwIX10C1R18bfida/giphy.gif" alt="Luna Logo" width="400"/>
 </div>
