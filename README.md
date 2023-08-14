@@ -20,7 +20,7 @@ Luna is an AI-powered desktop assistant that can perform various tasks, answer q
 
 - **Music Playback:** Simply ask Luna to "Play music", and it will start playing a specified music file.
 
-- **Time Announcement:** Wondering about the time? Luna can tell you the current time instantly.
+- **Time Announcement:** Wondering about the time or date? Luna can tell you the current time and date instantly.
 
 - **Dynamic Chat:** Engage in a flowing conversation with Luna, thanks to its dynamic chat capabilities that enable meaningful interactions.
 
