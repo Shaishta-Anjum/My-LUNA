@@ -16,13 +16,13 @@ Luna is an AI-powered desktop assistant that can perform various tasks, answer q
 
 - **OpenAI Integration:** Harnessing the power of OpenAI's GPT-3.5 Turbo model, Luna generates intelligent responses to user prompts and questions.
 
-- **Website and Application Launch:** Luna can open a range of websites (YouTube, Google, WhatsApp, etc.) and applications (Spotify, browsers, etc.) with simple voice commands.
+- **Website and Application Launch:** Luna can open a range of websites (YouTube, Google, WhatsApp, etc.) and applications (Spotify, browsers, etc.) with simple voice commands. Just say "Open [Website/App Name]." For example, say "Open YouTube" to open YouTube.
 
-- **Music Playback:** Simply ask Luna to play music, and it will start playing a specified music file.
+- **Music Playback:** Simply ask Luna to "Play music", and it will start playing a specified music file.
 
 - **Time Announcement:** Wondering about the time? Luna can tell you the current time instantly.
 
-- **Dynamic Chat:** Engage in a flowing conversation with Luna, thanks to its dynamic chat capabilities that enable meaningful interactions.
+- **Dynamic Chat:** Engage in a flowing conversation with Luna, thanks to its dynamic chat capabilities that enable meaningful interactions. Moreover, if you seek comprehensive answers to your queries, simply initiate your question with the phrase "Using AI."
 
 - **Error Handling:** Luna is equipped with robust error handling to ensure smooth interactions, even in case of unexpected situations.
 
