@@ -11,6 +11,12 @@ speaker =win32com.client.Dispatch("SAPI.Spvoice")
 voices = speaker.GetVoices()
 speaker.Voice = voices[1]
 
+def get_date_and_day():
+    now = datetime.datetime.now()
+    date = now.strftime("%Y-%m-%d")
+    day = now.strftime("%A")
+    return date, day
+    
 chatStr = ""
 def chat(query):
     global chatStr
@@ -119,6 +125,10 @@ if __name__=='__main__':
         elif "the time" in query:
                 strfTime= datetime.datetime.now().strftime("%H:%M:%S")
                 speaker.Speak(f"The time is {strfTime}")
+
+        elif "what's the date" in query.lower() or "tell me the date" in query.lower() or "what day is it" in query.lower() or "what is the day today" in query.lower():
+            date, day = get_date_and_day()
+            speaker.Speak(f"Today is {date} and it's a {day}.")
 
 
         elif "using ai".lower() in query.lower():
