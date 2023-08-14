@@ -93,10 +93,10 @@ if __name__=='__main__':
              ["linkedin", "https://linkedin.com/"], ["instagram", "https://instagram.com"]]
 
     # todo: Modify the App path according to your system
-    apps = [["edge", "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"],
-            ["spotify", "C:\\Users\\PRINCE\\AppData\\Roaming\\Spotify\\Spotify.exe"],
-            ["brave", "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"],
-            ["firefox", "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"],["chrome", "C:\\Users\\PRINCE\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe"],["teams", "C:\\Users\\PRINCE\\AppData\\Local\\Microsoft\\Teams\\Update.exe"],["python", "C:\\Program Files\\Python310\\pythonw.exe"]]
+    apps = [["edge", "<path>"],
+            ["spotify", "<path"],
+            ["brave", "<path>"],
+            ["firefox", "<path>"],["chrome", "<path>"],["teams", "<path>"],["python", "<path>"]]
     while True:
         print("\nListening:")
         query=takeCommand()
@@ -146,7 +146,3 @@ if __name__=='__main__':
         else:
             print("Chatting...")
             chat(query)
-
-#todo: Add a feature to make a todo list
-#todo: Add free api's available on the internet
-#todo: Add weather and news api's
