@@ -1,29 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      font-family: 'Lucida Handwriting', cursive;
-      color: purple;
-    }
-    .center {
-      text-align: center;
-    }
-    .logo {
-      width: 400px;
-      display: block;
-      margin: 0 auto;
-    }
-  </style>
-</head>
-<body>
-  <div class="center">
-    <h1>My-LUNA</h1>
-  </div>
-
-  <div align="center">
-    <img src="https://media.giphy.com/media/9bKwIX10C1R18bfida/giphy.gif" alt="Luna Logo" width="400"/>
-  </div>
+<div class="center">
+  <h1>My-LUNA</h1>
+</div>
+<div align="center">
+ <img src="https://media.giphy.com/media/9bKwIX10C1R18bfida/giphy.gif" alt="Luna Logo" width="400"/>
+</div>
 
 # Luna - AI Desktop Assistant
 
